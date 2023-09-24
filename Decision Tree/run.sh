@@ -5,19 +5,19 @@ pip install -U scikit-learn scipy matplotlib pandas
 
 
 # Run first file
-echo "IG_CAR DECISION_TREE.py" 
-python3  IG_CAR DECISION_TREE.py
+echo "IG_CAR_DECISION_TREE.py" 
+python3  IG_CAR_DECISION_TREE.py
 
 
 
 # Run 2nd file
-echo "Running  GI_CAR DECISION_TREE.py"
-python3 GI_CAR DECISION_TREE.py
+echo "Running  GI_CAR_DECISION_TREE.py"
+python3 GI_CAR_DECISION_TREE.py
 
 
 # Run 3rd file
-echo "Running  ME_CAR DECISION_TREE.py"
-python3 ME_CAR DECISION_TREE.py
+echo "Running  ME_CAR_DECISION_TREE.py"
+python3 ME_CAR_DECISION_TREE.py
 
 # Run 4th file
 echo "IG_pruned_bank.py" 
