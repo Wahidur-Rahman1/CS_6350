@@ -1,1 +1,1 @@
-this folder is ofr the linear regression assignment
+this folder is for the linear regression assignment
