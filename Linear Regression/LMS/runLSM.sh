@@ -5,8 +5,8 @@ pip install -U scikit-learn scipy matplotlib pandas
 
 
 # Run first file
-echo "linear_regression (1).py" 
-python3  linear_regression (1).py
+echo "linear_regression.py" 
+python3  linear_regression.py
 
 
 
